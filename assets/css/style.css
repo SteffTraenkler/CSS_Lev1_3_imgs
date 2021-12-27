@@ -1,0 +1,15 @@
+body{
+    background: lightgrey;
+}
+header{
+    background: darkgrey;
+}
+header>nav>dl>dt>a{
+    color: rgb(255, 77, 0);padding: 50px;
+}
+span{
+    color: red;
+}
+a{
+    color: rgb(255, 77, 0); text-decoration: none;
+}
